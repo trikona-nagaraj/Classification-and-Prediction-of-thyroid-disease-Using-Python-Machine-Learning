@@ -17,9 +17,32 @@ The objective of this project was to leverage machine learning algorithms—Rand
 3. **Model Building**: Utilized Random Forest, K-Nearest Neighbors, and XG-Boost algorithms to build models for each cluster.
 4. **Model Evaluation**: Models were assessed using the AUC metric, with XG-Boost outperforming others with an average AUC score of 0.98.
 
-### Results 📈
 
-The results revealed that the XG-Boost model exhibited superior performance with an average AUC score of 0.98, signifying its robustness in predicting hypothyroidism. Both Random Forest and K-Nearest Neighbors models displayed commendable performance with average AUC scores of 0.91 and 0.92, respectively. The model predictions were generated in the form of a CSV file.
+---
+
+## Results 📈
+
+### Model Performance
+
+The performance of the machine learning models was evaluated using the AUC (Area Under the Curve) metric. Here are the average AUC scores obtained:
+
+- **XG-Boost**: 0.98 🏆
+- **Random Forest**: 0.91
+- **K-Nearest Neighbors**: 0.92
+
+### Methodology
+
+1. **Data Preprocessing**: Techniques included missing value treatment, transformation, and validation to ensure data quality and reliability.
+2. **Clustering**: Utilized the KNN algorithm to segment data into three clusters based on similarity.
+3. **Model Building**: Developed models for each cluster using Random Forest, K-Nearest Neighbors, and XG-Boost algorithms.
+4. **Model Evaluation**: The AUC metric assessed model performance, with XG-Boost exhibiting superior accuracy compared to other models.
+
+### Result Analysis
+
+The XG-Boost model demonstrated remarkable accuracy in predicting the presence and severity of hypothyroidism, with an average AUC score of 0.98. This high accuracy level signifies the model's robustness in classification tasks related to thyroid conditions. 
+
+---
+
 
 ### Strengths and Limitations ⚡️🛑
 
