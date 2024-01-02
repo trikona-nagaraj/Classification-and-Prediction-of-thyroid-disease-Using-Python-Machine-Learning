@@ -1,0 +1,4 @@
+2023-05-12/00:16:46		Opened Prediction database successfully
+2023-05-12/00:16:47		Tables created successfully!!
+2023-05-12/00:17:11		Opened Prediction database successfully
+2023-05-12/00:17:13		Tables created successfully!!
